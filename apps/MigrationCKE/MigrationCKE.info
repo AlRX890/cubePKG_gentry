@@ -1,0 +1,7 @@
+{
+  "name": "MigrationCKE",
+  "version": "1.0.0",
+  "author": "AlejandrixKing245",
+  "Description": "Migration tool to migrate from 1.0-beta1 to 1.2."
+  "category": "app"
+}
